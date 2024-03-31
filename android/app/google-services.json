@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1056935425361",
+    "firebase_url": "https://docpatient-530f3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "docpatient-530f3",
+    "storage_bucket": "docpatient-530f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056935425361:android:e97409037c71e40d104f70",
+        "android_client_info": {
+          "package_name": "yimbs.com.doc_patient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD10zkbtqRyu3XAxjNhAzeap3iguMS1sHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

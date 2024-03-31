@@ -1,0 +1,25 @@
+# Flutter/Dart specific
+**/build/
+**/ios/Flutter/App.framework/
+**/ios/Flutter/flutter_assets/
+
+# Android specific
+**/android/gradle.properties
+**/android/local.properties
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/gradle/
+
+# IntelliJ IDEA
+**/.idea/
+
+# Visual Studio Code
+**/.vscode/
+
+# macOS specific
+**/.DS_Store
+
+# Flutter plugin files
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
