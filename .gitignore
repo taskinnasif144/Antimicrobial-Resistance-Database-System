@@ -13,7 +13,9 @@
 
 # IntelliJ IDEA
 **/.idea/
-
+**/test/
+**/.dart_tool/
+**/android/
 # Visual Studio Code
 **/.vscode/
 
